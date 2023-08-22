@@ -48,7 +48,7 @@ Here are some ideas to get you started:
    -->
   
 <a href="https://github.com/yunieom/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=yunieom&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=yunieom&include_all_commits=true&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
 
 
