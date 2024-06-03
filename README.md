@@ -57,11 +57,12 @@ Here are some ideas to get you started:
 <!--    <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212620177-077ec052-2e69-49f8-b227-47e06b8b3b3e.JPG"> -->
 <!--   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619049-6d2e4504-628f-4dc2-b045-e581303829fc.gif" />-->
   
-  ## Yuni Eom
+  ### Yuni Eom
 
   <!--   <img align="right" height="100" src="https://user-images.githubusercontent.com/75469131/213887495-9953614d-3516-4781-98a2-17908e379c4f.gif" />-->
   
-  <a href="https://velog.io/@yuni"><img src="https://img.shields.io/badge/yuni.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="https://early-flock-0c8.notion.site/Yuni-Eom-933231dac8f946b9b4ce62bac883b5fa?pvs=4"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
+  <a href="https://velog.io/@yuni"><img src="https://img.shields.io/badge/yuni.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a> 
+  <a href="https://early-flock-0c8.notion.site/Yuni-Eom-933231dac8f946b9b4ce62bac883b5fa?pvs=4"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
 
   
   <img align="right" width="50" src="https://github.com/yunieom/yunieom/assets/67372083/2f9ee7c8-5285-4ce2-b993-4d293b9891d1" />
